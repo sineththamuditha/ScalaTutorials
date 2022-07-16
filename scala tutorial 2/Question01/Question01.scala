@@ -6,11 +6,11 @@ object question01 {
         var (m,n) = (5,5)
         var (f,g) = (12.0,4.0)
         var c = 'X'
-        printf("a) k + 12 * m = %d\n", k+12*m)
-        printf("b) m / j = %d\n", m/j)
-        //printf("c) n % j = %d\n", n%j)
-        printf("d) m / j * j = %d\n", m/j*j)
-        printf("e) f + 10 * 5 + g = %.2f\n", f+10*5+g)
-        printf("f) ++i * n = %d\n", (i+1)*n)
+        println("a) k + 12 * m = " + k+12*m)
+        println("b) m / j = " + m/j)
+        println("c) n % j = " + n%j)
+        println("d) m / j * j = " + m/j*j)
+        println("e) f + 10 * 5 + g = " + f+10*5+g)
+        println("f) ++i * n = " + (i+1)*n)
     }
 }
