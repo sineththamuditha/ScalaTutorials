@@ -1,7 +1,7 @@
 object question05 {
 
     def runningTime(x:Double,y:Double):Double = {
-        return x/y
+        return x*y
     }
 
     def main(args: Array[String]): Unit = {
