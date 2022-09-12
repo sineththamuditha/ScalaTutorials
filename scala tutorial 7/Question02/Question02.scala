@@ -15,9 +15,10 @@ object question02 extends App{
     }
 
 
-    val rational1 = new Rational(4,7)
-    val rational2 = new Rational(2,4)
-    println(s"$rational1 - $rational2 = ${rational1 - rational2}")
+    val rational1 = new Rational(3,4)
+    val rational2 = new Rational(5,8)
+    val rational3 = new Rational(2,7)
+    println(s"$rational1 - $rational2 - $rational3 = ${rational1 - rational2 - rational3}")
 
 
 }
