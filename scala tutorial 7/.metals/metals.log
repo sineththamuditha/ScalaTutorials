@@ -21290,3 +21290,4 @@ Caused by: java.lang.ArrayIndexOutOfBoundsException: 647
 
 2022.09.12 18:40:16 WARN  no build target for: D:\Programs\sem3\scala\ScalaTutorials\scala tutorial 7\Question02\Question02.scala
 2022.09.12 18:40:54 INFO  shutting down Metals
+2022.09.16 17:48:57 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at d:\Programs\sem3\scala\ScalaTutorials\scala tutorial 7\.metals\lsp.trace.json or C:\Users\Sineth\AppData\Local\scalameta\metals\cache\lsp.trace.json

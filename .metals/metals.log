@@ -19406,3 +19406,32 @@ Caused by: java.lang.ArrayIndexOutOfBoundsException: 626
 
 2022.09.01 09:20:03 WARN  no build target for: D:\Programs\sem3\scala\ScalaTutorials\scala tutorial 6\ceasarCipher.scala
 2022.09.01 09:21:35 INFO  shutting down Metals
+2022.09.16 17:49:09 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at d:\Programs\sem3\scala\ScalaTutorials\.metals\lsp.trace.json or C:\Users\Sineth\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.09.16 17:49:11 INFO  logging to file D:\Programs\sem3\scala\ScalaTutorials\.metals\metals.log
+2022.09.16 17:49:11 INFO  Started: Metals version 0.11.8 in workspace 'D:\Programs\sem3\scala\ScalaTutorials' for client Visual Studio Code 1.71.0.
+2022.09.16 17:49:12 WARN  Flyway upgrade recommended: H2 2.1.214 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.09.16 17:49:12 INFO  time: initialize in 1.39s
+2022.09.16 17:49:12 WARN  Build server is not auto-connectable.
+2022.09.16 17:49:12 WARN  no build tool detected in workspace 'D:\Programs\sem3\scala\ScalaTutorials'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.09.16 17:49:37 WARN  no build target for: D:\Programs\sem3\scala\ScalaTutorials\scala tutorial 8\point.scala
+2022.09.16 17:49:41 INFO  no build target found for D:\Programs\sem3\scala\ScalaTutorials\scala tutorial 8\point.scala. Using presentation compiler with project's scala-library version: 3.1.3
+2022.09.16 17:49:42 INFO  time: code lens generation in 3.71s
+2022.09.16 17:58:57 WARN  no build target for: D:\Programs\sem3\scala\ScalaTutorials\scala tutorial 8\point.scala
+Sep 16, 2022 5:59:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1290
+2022.09.16 17:59:39 WARN  no build target for: D:\Programs\sem3\scala\ScalaTutorials\scala tutorial 8\point.scala
+2022.09.16 18:01:17 WARN  no build target for: D:\Programs\sem3\scala\ScalaTutorials\scala tutorial 8\point.scala
+2022.09.16 18:02:02 WARN  no build target for: D:\Programs\sem3\scala\ScalaTutorials\scala tutorial 8\point.scala
+Sep 16, 2022 6:02:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1922
+2022.09.16 18:02:30 WARN  no build target for: D:\Programs\sem3\scala\ScalaTutorials\scala tutorial 8\point.scala
+2022.09.16 18:03:53 WARN  no build target for: D:\Programs\sem3\scala\ScalaTutorials\scala tutorial 8\point.scala
+2022.09.16 18:04:09 WARN  no build target for: D:\Programs\sem3\scala\ScalaTutorials\scala tutorial 8\point.scala
+2022.09.16 18:04:20 WARN  no build target for: D:\Programs\sem3\scala\ScalaTutorials\scala tutorial 8\point.scala
+Sep 16, 2022 6:04:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2364
+2022.09.16 18:05:13 WARN  no build target for: D:\Programs\sem3\scala\ScalaTutorials\scala tutorial 8\point.scala
+2022.09.16 18:05:24 WARN  no build target for: D:\Programs\sem3\scala\ScalaTutorials\scala tutorial 8\point.scala
+2022.09.16 18:05:36 WARN  no build target for: D:\Programs\sem3\scala\ScalaTutorials\scala tutorial 8\point.scala
+2022.09.16 18:06:21 WARN  no build target for: D:\Programs\sem3\scala\ScalaTutorials\scala tutorial 8\point.scala
+2022.09.16 18:06:51 INFO  shutting down Metals
